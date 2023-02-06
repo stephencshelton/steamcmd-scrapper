@@ -1,0 +1,5 @@
+# Example application.yaml you would use with this container to scrape information
+project-zomboid-docker:
+  appId: 108600
+valhiem-docker:
+  appId: 892970
